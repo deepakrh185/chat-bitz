@@ -1,6 +1,6 @@
 WhatsApp - Clone
 
-This project has exact functionaly of WhatsApp.
+This project has exact functionaly and UI of WhatsApp.
 
 The app is used to send and receive the message.
 
