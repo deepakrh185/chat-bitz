@@ -1,6 +1,6 @@
-WhatsApp - Clone
+Chat Bitz
 
-* This project has exact functionality and UI of WhatsApp.
+* This is a basic chatting app.
 
 * The app is used to send and receive the message.
 
